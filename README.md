@@ -1,8 +1,5 @@
 # Companies-USA-EUROPE
-My first project USING Microsoft Power bi with ITI
-
--Cleaning data  
--Visualization 
+This dashboard provides insights into companies from Europe and the USA, highlighting key business metrics.
 
 
 
